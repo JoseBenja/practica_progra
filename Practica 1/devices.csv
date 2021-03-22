@@ -1,0 +1,8 @@
+Tipo de dispositivo,Numero de telefono,Dispositivo asociado,Correo electronico,Nombre del dispositivo,Visible,Encendido
+Computadora Portatil,,,benjamin.salguero@outlook.es,BenjaPC,true,true
+Computadora Portatil,,,benjamin.salguero@outlook.es,JoseBPC,false,false
+SmartWatch,,,benjamin.salguero@outlook.es,JoseBWatch,true,true
+Auriculares,,JoseBWatch,benjamin.salguero@outlook.es,JoseAudifonos,true,true
+Auriculares,,,benjamin.salguero@outlook.es,BenjaAudio,true,true
+SmartPhone,3515-0963,,benjamin.salguero@outlook.es,BenjaCel,true,true
+SmartPhone,4554-7162,,benjamin.salguero@outlook.es,JoseBCel,false,true

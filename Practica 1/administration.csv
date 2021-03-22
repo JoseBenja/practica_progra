@@ -1,0 +1,18 @@
+Tipo de dispositivo,Nombre del dispositivo,Campo a editar,Nuevo valor
+Computadora Portatil,JosePC,visible,false
+Computadora Portatil,JosePC,encender,false
+Auriculares,JoseAudio,eliminar sincronización,true
+Computadora Portatil,JosePC,encender,true
+Computadora Portatil,JosePC,visible,true
+SmartPhone,JoseBPhone,visible,false
+Tablet,JoseBTablet,nombre,JoseBTab
+SmartPhone,BenjaCel,encender,false
+SmartPhone,BenjaCel,encender,true
+SmartPhone,BenjaCel,visible,true
+Computadora Portatil,JoseBPC,encender,false
+SmartWatch,JoseBTablet,nombre,
+SmartWatch,JoseBTablet,nombre,
+SmartWatch,JoseBTablet,nombre,JoseBWatch
+Auriculares,JoseBAudio,nombre,JoseAudifonos
+Auriculares,BenjaAudio,eliminar sincronización,true
+SmartPhone,JoseBCel,visible,false

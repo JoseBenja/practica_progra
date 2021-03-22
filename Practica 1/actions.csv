@@ -1,0 +1,11 @@
+Tipo de dispositivo,Nombre del dispositivo,Accion,Dispositivo destino
+SmartPhone,BenjaCel,Copiar texto
+Computadora Portatil,JosePC,Pegar texto
+Computadora Portatil,BenjaPC,Reproducir musica,BenjaAudio
+Computadora Portatil,JosePC,Compartir documentos,JoseCel
+Computadora Portatil,BenjaPC,Reproducir musica,BenjaAudio
+Computadora Portatil,BenjaPC,Reproducir musica,BenjaAudio
+Computadora Portatil,BenjaPC,Reproducir musica,BenjaPC
+Computadora Portatil,BenjaPC,Reproducir musica,BenjaAudio
+Computadora Portatil,BenjaPC,fotografia
+Computadora Portatil,BenjaPC,fotografia
