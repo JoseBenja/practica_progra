@@ -16,7 +16,7 @@ public class Menu {
         System.out.println("5---Log");
         System.out.println("6---Cerrar");
         opcion = scn.nextInt();
-        System.out.println("--------------------------------------------------------");
+        System.out.println("----------------------Inicio----------------------------------");
 
         switch (opcion) {
             case 1:
